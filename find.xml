@@ -1,5 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -9,9 +13,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
-      <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
