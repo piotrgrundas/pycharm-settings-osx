@@ -32,6 +32,18 @@
         <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="c8af69" />
+        <option name="BACKGROUND" value="d6d6d6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="c8af69" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
