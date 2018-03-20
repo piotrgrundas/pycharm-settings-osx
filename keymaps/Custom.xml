@@ -57,7 +57,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag">
-    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
