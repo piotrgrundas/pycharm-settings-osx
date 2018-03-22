@@ -138,12 +138,11 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoDeclaration" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
-  </action>
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta e" />
