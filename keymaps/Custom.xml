@@ -240,9 +240,9 @@
   <action id="XDebugger.ToggleSortValues">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="context.load" />
   <action id="hg4idea.QFold" />
   <action id="linessorter.sort">
-    <keyboard-shortcut first-keystroke="shift meta l" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="openAssertEqualsDiff" />
