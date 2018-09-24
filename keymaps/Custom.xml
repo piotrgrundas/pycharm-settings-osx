@@ -86,7 +86,9 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
-  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -208,10 +210,10 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift meta enter" />
