@@ -194,6 +194,9 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
