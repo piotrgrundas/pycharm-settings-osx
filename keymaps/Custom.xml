@@ -1,1 +1,6 @@
-<keymap version="1" name="Custom" parent="Default for GNOME" />
+<keymap version="1" name="Custom" parent="Default for GNOME">
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+</keymap>
