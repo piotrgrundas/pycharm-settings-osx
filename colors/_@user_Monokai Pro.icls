@@ -4,7 +4,7 @@
     <property name="created">2019-02-03T21:15:00</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-02-03T23:18:40</property>
+    <property name="modified">2019-02-05T23:37:16</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -2061,7 +2061,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="aeaeac" />
         <option name="EFFECT_COLOR" value="727072" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
