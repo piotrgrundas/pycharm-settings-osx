@@ -1,11 +1,33 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="0" />
+  <option name="RIGHT_MARGIN" value="99" />
   <option name="SOFT_MARGINS" value="79,99" />
+  <Python>
+    <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+  </Python>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="0" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
