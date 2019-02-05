@@ -4,7 +4,7 @@
     <property name="created">2019-02-03T21:15:00</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-02-06T00:21:32</property>
+    <property name="modified">2019-02-06T00:30:37</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -45,7 +45,7 @@
     <option name="FILESTATUS_addedOutside" value="a9dc76" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="78dce8" />
-    <option name="GUTTER_BACKGROUND" value="2d2a2e" />
+    <option name="GUTTER_BACKGROUND" value="2f2b2f" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
@@ -60,7 +60,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="59575a" />
     <option name="SELECTED_INDENT_GUIDE" value="78dce8" />
     <option name="SELECTED_TEARLINE_COLOR" value="78dce8" />
-    <option name="SELECTION_BACKGROUND" value="403e41" />
+    <option name="SELECTION_BACKGROUND" value="545155" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
     <option name="TEARLINE_COLOR" value="3b3539" />
@@ -981,7 +981,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
