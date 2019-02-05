@@ -4,7 +4,7 @@
     <property name="created">2019-02-03T21:15:00</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-02-05T23:51:18</property>
+    <property name="modified">2019-02-06T00:21:32</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -2809,6 +2809,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="5d5a5e" />
         <option name="EFFECT_COLOR" value="fffbf7" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
